@@ -21,7 +21,7 @@ _This is italic_
 
 </br>
 
-### bold :
+### Bold syntex :
 __This is bold text__
 
 </br>
@@ -49,22 +49,22 @@ console.log('Hello World')
 </br>
 
 ### Ordered List :
-1. item1  
-2. item2  
+1. Item1  
+2. Item2  
    1. Tea   
    2. Coffe  
-3. item3  
-4. item4  
+3. Item3  
+4. Item4  
 
 </br>
 
 ### Unordered list :
-- item1  
-- item2  
-  - item1  
-  - item2  
-- item3  
-- item4
+- Item1  
+- Item2  
+  - Item1  
+  - Item2  
+- Item3  
+- Item4
 
 </br>
 
